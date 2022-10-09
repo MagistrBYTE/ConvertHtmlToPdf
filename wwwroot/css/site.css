@@ -1,0 +1,23 @@
+﻿.info-text
+{
+	text-align: center;
+	font-size: x-large;
+}
+
+.info-status
+{
+	text-align: left;
+	font-size: x-large;
+}
+
+.header-center
+{
+	text-align: center;
+	font-size: x-large;
+}
+
+.button-load
+{
+	margin: 20px;
+	font-size: large;
+}
